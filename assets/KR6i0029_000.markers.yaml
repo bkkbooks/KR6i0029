@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR6i0029/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6i0029_C_000-0111a, ed: C, 'n': 0111a, source_xml_id: C071.1665.0111a}
+  - {type: line-break, offset: 0, content: '', id: KR6i0029_C_000-0111a01, ed: C, 'n': 0111a01}
+  - {type: xml-element, offset: 0, content: '', id: pC071p0111a0101, name: p, role: open, attrs: {'xml:id': pC071p0111a0101, style: 'margin-left:1em'}}
+  - {type: xml-element, offset: 0, content: '', id: KR6i0029_C_000-bkkxmlele1, name: note, role: open, attrs: {place: inline}}
+  - {type: line-break, offset: 15, content: '', id: KR6i0029_C_000-0111a02, ed: C, 'n': 0111a02}
+  - {type: punctuation, offset: 16, content: 󴅽, id: KR6i0029_C_000-bkkpn1}
+  - {type: line-break, offset: 26, content: '', id: KR6i0029_C_000-0111a03, ed: C, 'n': 0111a03}
+  - {type: indent, offset: 30, content: 　, id: KR6i0029_C_000-bkkind1}
+  - {type: line-break, offset: 43, content: '', id: KR6i0029_C_000-0111a04, ed: C, 'n': 0111a04}
+  - {type: indent, offset: 47, content: 　, id: KR6i0029_C_000-bkkind2}
+  - {type: variant, offset: 56, length: 1, content: 己, 中華: 巳}
+  - {type: substitution, offset: 57, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
+  - {type: indent, offset: 60, content: 　, id: KR6i0029_C_000-bkkind3}
+  - {type: indent, offset: 60, content: 　, id: KR6i0029_C_000-bkkind4}
+  - {type: indent, offset: 60, content: 　, id: KR6i0029_C_000-bkkind5}
+  - {type: xml-element, offset: 62, content: '', id: KR6i0029_C_000-bkkxmlele2, name: note, role: close, attrs: {place: inline}}
+  - {type: punctuation, offset: 62, content: 。, id: KR6i0029_C_000-bkkpn2}
+  - {type: xml-element, offset: 62, content: '', id: pC071p0111a0101_end, name: p, role: close, attrs: {'xml:id': pC071p0111a0101, style: 'margin-left:1em'}}
+  - {type: line-break, offset: 62, content: '', id: KR6i0029_C_000-0111a05, ed: C, 'n': 0111a05}
+  body: []
+  back: []
+hash: sha256:e08001e6ec15e1bbe9d7ca7d533006d84e3d3f2ef14ddbea60efd73b040baf88
