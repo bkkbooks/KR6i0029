@@ -10,9 +10,11 @@ markers:
   - {type: punctuation, offset: 16, content: 󴅽, id: KR6i0029_C_000-bkkpn1}
   - {type: line-break, offset: 26, content: '', id: KR6i0029_C_000-0111a03, ed: C, 'n': 0111a03}
   - {type: indent, offset: 30, content: 　, id: KR6i0029_C_000-bkkind1}
+  - {type: substitution, offset: 33, original: 彊, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17539}}
   - {type: line-break, offset: 43, content: '', id: KR6i0029_C_000-0111a04, ed: C, 'n': 0111a04}
   - {type: indent, offset: 47, content: 　, id: KR6i0029_C_000-bkkind2}
   - {type: variant, offset: 56, length: 1, content: 己, 中華: 巳}
+  - {type: substitution, offset: 57, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16268}}
   - {type: indent, offset: 60, content: 　, id: KR6i0029_C_000-bkkind3}
   - {type: indent, offset: 60, content: 　, id: KR6i0029_C_000-bkkind4}
   - {type: indent, offset: 60, content: 　, id: KR6i0029_C_000-bkkind5}
@@ -22,4 +24,4 @@ markers:
   - {type: line-break, offset: 62, content: '', id: KR6i0029_C_000-0111a05, ed: C, 'n': 0111a05}
   body: []
   back: []
-hash: sha256:b5ca29202bffafd91e2828c00561428b93df47e04c31a564df6335f85508f111
+hash: sha256:cc54cc8bad23d3b159c270cfeeade0927689aab40bf255dbfc2c8734753e51ed

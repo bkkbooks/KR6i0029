@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6i0029/c/v1/juan/0
 seq: 0
 front:
-  text: 福州長溪縣永樂鄉欽德佛羅濬捨錢菩名經印施入于大藏仰祝今上皇帝聖壽無彊府縣官僚同資釋息三咸證菩提時紹興二十九年歲次己夘正月謹題
-  hash: sha256:26bf69c2d47e17e53744314bab9b76d35014d716ebd705a27bf8105386f333b8
+  text: 福州長溪縣永樂鄉欽德佛羅濬捨錢菩名經印施入于大藏仰祝今上皇帝聖壽無強府縣官僚同資釋息三咸證菩提時紹興二十九年歲次己卯正月謹題
+  hash: sha256:33d671fe41f4fb14ddbe1bd5be30f910bfdf7287f1c2b77f9628eef3615c9ee1
   markers:
   - {type: 其他, offset: 0, content: 印經題記, id: KR6i0029_C_000-mulu-1, level: '1'}
   - {type: 其他, offset: 62, content: 佛品, id: KR6i0029_C_000-mulu-2, level: '1'}
@@ -18,4 +18,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/C/C071/C071n1665.xml
     old_id: C071n1665
-hash: sha256:5b24fc3793918828768dd8b52bac5f3d4d3f9a3a934e84992f5ea0d76d90c494
+hash: sha256:5389e0bd383567dcb3db15f041b3fa6084c0173a4955f53838a086a8fc8aa9c1
