@@ -21,7 +21,7 @@ editions:
 - short: C
 assets:
   parts:
-  - {seq: 0, filename: KR6i0029_000.yaml, hash: 'sha256:5389e0bd383567dcb3db15f041b3fa6084c0173a4955f53838a086a8fc8aa9c1'}
+  - {seq: 0, filename: KR6i0029_000.yaml, hash: 'sha256:2ff6cb89643b9fc3ea55b922c36f8ad2a525e8dbdc49a8af664637bf4568bba3'}
   - {seq: 1, filename: KR6i0029_001.yaml, hash: 'sha256:a7a790156d9b88f51775b2a7cbc71b67d0a75a7153f6dfd3585456f27e496223'}
   - {seq: 2, filename: KR6i0029_002.yaml, hash: 'sha256:7debeb472c0aa85cf17304502335e5a0597bb068f96e7e13a347a3cc2f64f3b5'}
   - {seq: 3, filename: KR6i0029_003.yaml, hash: 'sha256:3da08d23abf8256fac1ed3deded30bb41fe3353463379ba0838c3c47eee734b4'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6i0029_009.yaml, hash: 'sha256:35f1e1495716cb9115badd985bb26fba88185a80ce5fdc660b0219bffde9a948'}
   - {seq: 10, filename: KR6i0029_010.yaml, hash: 'sha256:3e64fed80e6dad5e3fce6b0819afd865635e1d266ca61295731d651d5f8ca6b7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0029_000.markers.yaml, hash: 'sha256:cc54cc8bad23d3b159c270cfeeade0927689aab40bf255dbfc2c8734753e51ed'}
+  - {seq: 0, role: markers, filename: assets/KR6i0029_000.markers.yaml, hash: 'sha256:9357f36252817616b7394f3dd2a0fdb7127aaae703629de47bd5b393f526727f'}
   - {seq: 1, role: markers, filename: assets/KR6i0029_001.markers.yaml, hash: 'sha256:3cd0218d31ba546938cd05ceca004484077b0b40d1f73c33e48db8c15884cf74'}
   - {seq: 2, role: markers, filename: assets/KR6i0029_002.markers.yaml, hash: 'sha256:49019a347f96ebd46e42fd3edf95872888242535d2398400857f0dc518fbf332'}
   - {seq: 3, role: markers, filename: assets/KR6i0029_003.markers.yaml, hash: 'sha256:ef6db79b9ec9ad8b55a1b9aa19a9ecd8db3729765e60fdb7edfa73b7b4ab50d6'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0029_C_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 印經題記
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0029_C_000-mulu-2
     span:
-    - front
+    - body
     - 62
     - 62
   label: 佛品
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0029_C_000-mulu-3
     span:
-    - front
+    - body
     - 62
     - 62
   label: 序
@@ -495,7 +495,7 @@ table_of_contents:
   label: 第十卷
   type: mulu
   level: 1
-hash: sha256:8b430acb3421427158bcc73d2c005c9446bb7ebfc1a1653c7fbf8cfca1e8d830
+hash: sha256:2da404923b165c37b04851b2aeec24dfc5d0e3c4ea18cdfa99f3cf81b60debc3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

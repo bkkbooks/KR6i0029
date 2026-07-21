@@ -1,15 +1,12 @@
 canonical_identifier: bkk:krp/KR6i0029/c/v1/juan/0
 seq: 0
-front:
+body:
   text: 福州長溪縣永樂鄉欽德佛羅濬捨錢菩名經印施入于大藏仰祝今上皇帝聖壽無彊府縣官僚同資釋息三咸證菩提時紹興二十九年歲次己夘正月謹題
   hash: sha256:26bf69c2d47e17e53744314bab9b76d35014d716ebd705a27bf8105386f333b8
   markers:
   - {type: 其他, offset: 0, content: 印經題記, id: KR6i0029_C_000-mulu-1, level: '1'}
   - {type: 其他, offset: 62, content: 佛品, id: KR6i0029_C_000-mulu-2, level: '1'}
   - {type: 序, offset: 62, content: 序, id: KR6i0029_C_000-mulu-3, level: '2'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 菩薩名經
   edition:
@@ -18,4 +15,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/C/C071/C071n1665.xml
     old_id: C071n1665
-hash: sha256:5b24fc3793918828768dd8b52bac5f3d4d3f9a3a934e84992f5ea0d76d90c494
+hash: sha256:4b3353a4e4fb99e7aada25fc63e0b3b05565073075a0238b4b256100f45545d4
